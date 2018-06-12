@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+First line for task on page 19
+Second line for task on page 19
